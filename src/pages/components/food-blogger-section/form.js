@@ -6,7 +6,8 @@ export default function NameField() {
         <form
             className="mb-4 w-4/5 mx-auto sm:mx-0"
             name="food-blogger-contact-form"
-            method="post"
+            method="POST"
+            data-netlify="true"
         >
             <input
                 type="hidden"
