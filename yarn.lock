@@ -10550,6 +10550,21 @@
   "resolved" "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz"
   "version" "0.0.6"
 
+"typeface-jost@^1.1.13":
+  "integrity" "sha512-DGWNiM3fs74NKw8YD0O6Q7iOBciM1rGwVhYQXl+d+6GmBM5jR38O5RTRsfNg4em57DnwO39EEWF0TQN6reo7qQ=="
+  "resolved" "https://registry.npmjs.org/typeface-jost/-/typeface-jost-1.1.13.tgz"
+  "version" "1.1.13"
+
+"typeface-patrick-hand-sc@^1.1.13":
+  "integrity" "sha512-VChYaUgY7jKrLkTQbvkSCcf7Mng+uFfNtbUV/4zDjlDL+IJQrfrCWhlqqrmAoObeIkayc8pxsjcR65ivw+HN8A=="
+  "resolved" "https://registry.npmjs.org/typeface-patrick-hand-sc/-/typeface-patrick-hand-sc-1.1.13.tgz"
+  "version" "1.1.13"
+
+"typeface-patrick-hand@^1.1.13":
+  "integrity" "sha512-vfbhJqWx/8jCFzM2vgE12KGgSI1SWkVzQX+JPspwDioZik8sKmB8LxzfcLtbae1nFZ5EnA6Q6lkSqnP/tpVNxw=="
+  "resolved" "https://registry.npmjs.org/typeface-patrick-hand/-/typeface-patrick-hand-1.1.13.tgz"
+  "version" "1.1.13"
+
 "unbox-primitive@^1.0.1":
   "integrity" "sha512-tZU/3NqK3dA5gpE1KtyiJUrEB0lxnGkMFHptJ7q6ewdZ8s12QrODwNbhIJStmJkd1QDXa1NRA8aF2A1zk/Ypyw=="
   "resolved" "https://registry.npmjs.org/unbox-primitive/-/unbox-primitive-1.0.1.tgz"
